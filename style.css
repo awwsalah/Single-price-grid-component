@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+:root{
+    --Color-green-mint: #2AB3B1;
+    --color-green: #C0DF33;
+    --color-light-purple: #9AA7BE;
+    --text-color: #E6EFF5;
+    --color-white: #FFFFFF;
+
+}
+
+body{
+    font-family: "Karla", sans-serif;
+    background-color: ;
+}
